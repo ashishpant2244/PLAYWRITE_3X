@@ -14,6 +14,7 @@ A hands-on JavaScript learning repository where I work through JS fundamentals �
 | 06 | Statements | Conditionals, multiple conditions, IQ questions (3 files) |
 | 07 | Switch | Switch statements, group cases, IQ questions, real API testing (9 files) |
 | 08 | User Inputs | JS prompts, Node.js UI, prompt handling, file system (4 files) |
+| 09 | Loops | For, while, do-while, increment, nested loops, IQ questions (13 files) |
 | **Hackerrank_Practice** | Practice problems | If-else, switch statement (2 files) |
 | **IQ_Notes** | Reference notes | Keyword notes, identifier rules, Windows commands, source→bytecode→binary deep-dive |
 | **understand_code_IQ** | Dev fundamentals | Prompt templates, source vs bytecode vs binary |

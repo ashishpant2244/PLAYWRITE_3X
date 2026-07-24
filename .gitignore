@@ -1,6 +1,7 @@
 node_modules/
 mingit/
 mingit.zip
+Git/
 .commandcode/
 commit_msg.txt
 $null
