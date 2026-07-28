@@ -15,6 +15,7 @@ A hands-on JavaScript learning repository where I work through JS fundamentals �
 | 07 | Switch | Switch statements, group cases, IQ questions, real API testing (9 files) |
 | 08 | User Inputs | JS prompts, Node.js UI, prompt handling, file system (4 files) |
 | 09 | Loops | For, while, do-while, increment, nested loops, IQ questions (13 files) |
+| 10 | Arrays | Creation, access/modify, add/remove, real methods, searching, iteration, IQ, transform, sorting, slicing, concat, checking, copy, destructuring (18 files) |
 | **Hackerrank_Practice** | Practice problems | If-else, switch statement (2 files) |
 | **IQ_Notes** | Reference notes | Keyword notes, identifier rules, Windows commands, source→bytecode→binary deep-dive, array function reference |
 | **understand_code_IQ** | Dev fundamentals | Prompt templates, source vs bytecode vs binary |
@@ -24,6 +25,8 @@ A hands-on JavaScript learning repository where I work through JS fundamentals �
 - **JS fundamentals** — variables (`let`), identifiers, literals, data types
 - **Operators** — arithmetic, assignment, comparison (`==`/`===`), logical, ternary, nullish coalescing (`??`), increment/decrement (`++`/`--`)
 - **Statements & control flow** — conditionals, nested ternary
+- **Arrays** — creation, methods, iteration, searching, transform, sorting, slicing, concat, copy, destructuring
+- **Destructuring** — array destructuring with rest pattern, default values, skipping elements, swapping variables
 - **Engine internals** — how V8 processes source code → AST → bytecode (Ignition) → machine code (TurboFan JIT)
 
 ## Author
